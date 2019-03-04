@@ -20,7 +20,7 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: 127.0.0.1 127.0.0.1 127.0.0.1 127.0.0.1 127.0.0.1 127.0.0.1
+    host: 127.0.0.1 registry config monitor rabbitmq auth-service
   sleuth:
     sampler:
       percentage: 1
